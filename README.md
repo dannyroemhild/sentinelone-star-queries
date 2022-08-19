@@ -18,6 +18,6 @@ There are already other repositories that collect SentinelOne STAR Rules like:
 
 - [Sentinel-One-STAR-Rules-Threat-Hunts](https://github.com/acquiredsecurity/Sentinel-One-STAR-Rules-Threat-Hunts) - Detecting different specific or general malicious activities
 - [Sentinelone-Queries](https://github.com/keyboardcrunch/sentinelone-queries) - Queries with Mapping to Mire Att@ck TTPs
-- [SentinelOne-Query-Navigator]https://github.com/keyboardcrunch/SentinelOne-Query-Navigator - A Python Flask based web application for loading the SentinelOne-Queries repository into a browseable database 
+- [SentinelOne-Query-Navigator](https://github.com/keyboardcrunch/SentinelOne-Query-Navigator) - A Python Flask based web application for loading the SentinelOne-Queries repository into a browseable database 
 
 This repository here contains the ones, that I found or created myself. Maybe these different Repos may get merged in the future.
