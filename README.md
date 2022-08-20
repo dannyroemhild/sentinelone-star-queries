@@ -20,4 +20,10 @@ There are already other repositories that collect SentinelOne STAR Rules like:
 - [Sentinelone-Queries](https://github.com/keyboardcrunch/sentinelone-queries) - Queries with Mapping to Mire Att@ck TTPs
 - [SentinelOne-Query-Navigator](https://github.com/keyboardcrunch/SentinelOne-Query-Navigator) - A Python Flask based web application for loading the SentinelOne-Queries repository into a browseable database 
 
-This repository here contains the ones, that I found or created myself. Maybe these different Repos may get merged in the future.
+## This Repository
+
+This repository here contains Queries, that I found or created myself based on different sources.
+
+the first attempt is to put them in to different md-Files based on something like "categories".
+
+Maybe this will change over time.
