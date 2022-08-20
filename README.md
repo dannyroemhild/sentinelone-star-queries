@@ -21,7 +21,3 @@ There are already other repositories that collect SentinelOne STAR Rules like:
 - [SentinelOne-Query-Navigator](https://github.com/keyboardcrunch/SentinelOne-Query-Navigator) - A Python Flask based web application for loading the SentinelOne-Queries repository into a browseable database 
 
 This repository here contains the ones, that I found or created myself. Maybe these different Repos may get merged in the future.
-
-## YAML Query Files
-
-I went with the YAML Format of the Query Files introduced by keyboardcrunch in his repository so that these could possibly be used with the SentinelOne Query Navigator mentioned above.
