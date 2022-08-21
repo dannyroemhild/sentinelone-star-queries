@@ -1,4 +1,4 @@
-# Potentially malicious Activites on Webservers
+# Potentially malicious Activities on Webservers
 
 ## Detects IIS Module Registration
 
